@@ -7,16 +7,17 @@ If you're completely new to Machine Learning, welcome! If you check out the [`ge
 For this repository, we will be using [PyTorch](https://pytorch.org), however, if you're familiar with TensorFlow and would like to learn more about PyTorch, please visit the [PyTorch Tutorial Page](https://pytorch.org/tutorials/beginner/nn_tutorial.html).
 
 Currently Planned Models:
+
 - [ ] MultiLayer Perceptrons
 - [ ] Recurrent Networks
-    - [ ] RNNs
-    - [ ] LSTMs
-    - [ ] GRUs
+  - [ ] RNNs
+  - [ ] LSTMs
+  - [ ] GRUs
 - [ ] Convolutional Networks
-    - [ ] CNN Classifiers
-    - [ ] ResNet
-    - [ ] DCGAN
+  - [ ] CNN Classifiers
+  - [ ] ResNet
+  - [ ] DCGAN
 - [ ] Generative Models
-    - [ ] Wasserstein Generative Adversarial Network
-    - [ ] Variational Autoencoders
-    - [ ] Denoising Autoencoders
+  - [ ] Wasserstein Generative Adversarial Network
+  - [ ] Variational Autoencoders
+  - [ ] Denoising Autoencoders
