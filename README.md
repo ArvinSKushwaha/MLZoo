@@ -2,7 +2,7 @@
 
 The Machine Learning Zoo aims to provide resources and code examples for creating a vast variety of machine learning models, from simple multilayer perceptrons to Generative Adversarial Networks to Transformers.
 
-If you're completely new to Machine Learning, welcome! If you check out the [`getting_started.md`]() file, 
+If you're completely new to Machine Learning, welcome! If you check out the [`getting_started.md`](https://github.com/ArvinSKushwaha/MLZoo/blob/master/getting_started.md) file, you can find some really helpful resources to get started!
 
 For this repository, we will be using [PyTorch](https://pytorch.org), however, if you're familiar with TensorFlow and would like to learn more about PyTorch, please visit the [PyTorch Tutorial Page](https://pytorch.org/tutorials/beginner/nn_tutorial.html).
 

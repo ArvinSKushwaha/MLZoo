@@ -10,16 +10,30 @@ For each link, you will find a short description of the resource, and for some l
 
 ## Resources by Skill Level
 
-### Beginner <hr/>
+### Beginner
 
-### Intermediate <hr/>
+---
 
-### Advanced <hr/>
+### Intermediate
 
-## Resources by Topic
+---
 
-### Mathematics of Machine Learning <hr/>
+### Advanced
 
-### Convolutional Networks <hr/>
+---
 
-### Recurrent Networks <hr/>
+## Resources by
+
+---
+
+### Mathematics of Machine Learning
+
+---
+
+### Convolutional Networks
+
+---
+
+### Recurrent Networks
+
+---
